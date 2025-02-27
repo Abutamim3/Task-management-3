@@ -1,0 +1,16 @@
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\obj\Debug\net8.0-windows\برنامج ادارة المهام.vbproj.GenerateResource.cache
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\obj\Debug\net8.0-windows\برنامج ادارة المهام.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\obj\Debug\net8.0-windows\برنامج ادارة المهام.AssemblyInfoInputs.cache
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\obj\Debug\net8.0-windows\برنامج ادارة المهام.AssemblyInfo.vb
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\obj\Debug\net8.0-windows\برنامج ادارة المهام.vbproj.CoreCompileInputs.cache
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\bin\Debug\net8.0-windows\برنامج ادارة المهام.exe
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\bin\Debug\net8.0-windows\برنامج ادارة المهام.deps.json
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\bin\Debug\net8.0-windows\برنامج ادارة المهام.runtimeconfig.json
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\bin\Debug\net8.0-windows\برنامج ادارة المهام.dll
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\bin\Debug\net8.0-windows\برنامج ادارة المهام.pdb
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\obj\Debug\net8.0-windows\برنامج ادارة المهام.dll
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\obj\Debug\net8.0-windows\refint\برنامج ادارة المهام.dll
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\obj\Debug\net8.0-windows\برنامج ادارة المهام.pdb
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\obj\Debug\net8.0-windows\برنامج ادارة المهام.genruntimeconfig.cache
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\obj\Debug\net8.0-windows\ref\برنامج ادارة المهام.dll
+C:\Users\abudl\source\repos\برنامج ادارة المهام\برنامج ادارة المهام\obj\Debug\net8.0-windows\برنامج_ادارة_المهام.Form1.resources
